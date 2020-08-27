@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá pessoal :wave:
 
-<!--
-**cristiantela/cristiantela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Matheus, sou de Alagoas, nordeste brasileiro.  
+Já faz alguns anos que sou apaixonado pelo poder de transformação que a tecnologia nos dá :sparkles:.  
+Sou FullStack Developer :computer:.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:office: Estou trabalhando na [**RogaLabs**](https://www.rogalabs.com/).  
+:orange_heart: Buscando colaborar com projetos usando JavaScript ou [Vue.js](https://github.com/vuejs/vue).  
+:blush: Posso te ajudar com JavaScript, HTML, CSS.  
+:computer: Minha framework preferida é Vue.js.  
+:musical_note: Gosto de escutar uma música enquanto estou codificando e assistir séries para treinar o inglês :ear:.  
+:mailbox: Como me encontrar:
+[![Linkedin Badge](https://img.shields.io/badge/-Cristiantela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiantela/)](https://www.linkedin.com/in/cristiantela/)
+[![E-mail Badge](https://img.shields.io/badge/-mathues@email.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathues@email.com)](mailto:mathues@email.com)
+[![Instagram Badge](https://img.shields.io/badge/-Cristiantela-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cristiantela/)](https://www.instagram.com/cristiantela/)
