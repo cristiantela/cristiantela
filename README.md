@@ -9,7 +9,7 @@ Sou FullStack Developer :computer:.
 :blush: Posso te ajudar com JavaScript, HTML, CSS.  
 :computer: Minha framework preferida é Vue.js.  
 :musical_note: Gosto de escutar uma música enquanto estou codificando e assistir séries para treinar o inglês :ear:.  
-:mailbox: Como me encontrar:
+:mailbox: Onde me encontrar:
 [![Linkedin Badge](https://img.shields.io/badge/-Cristiantela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiantela/)](https://www.linkedin.com/in/cristiantela/)
 [![E-mail Badge](https://img.shields.io/badge/-mathues@email.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathues@email.com)](mailto:mathues@email.com)
 [![Instagram Badge](https://img.shields.io/badge/-Cristiantela-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cristiantela/)](https://www.instagram.com/cristiantela/)
