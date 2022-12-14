@@ -4,7 +4,7 @@ Me chamo Matheus, sou de Alagoas, nordeste brasileiro.
 Já faz alguns anos que sou apaixonado pelo poder de transformação que a tecnologia nos dá :sparkles:.  
 Sou FullStack Developer :computer:.
 
-:office: Atualmente trabalho na [Weni](https://github.com/Ilhasoft).  
+:office: Atualmente trabalho na [Weni](https://github.com/weni-ai).  
 :orange_heart: Buscando colaborar com projetos usando JavaScript ou [Vue.js](https://github.com/vuejs/vue).  
 :blush: Posso te ajudar com JavaScript, HTML, CSS.  
 :computer: Minha framework preferida é Vue.js e um carinho especial por [PHP](https://github.com/php).  
